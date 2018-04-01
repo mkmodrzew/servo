@@ -29,7 +29,7 @@ servo_url = {path = "../url"}
 style_traits = {path = "../style_traits"}
 time = "0.1.17"
 webrender = {git = "https://github.com/servo/webrender", features = ["capture"]}
-webrender_api = {git = "https://github.com/servo/webrender", features = ["ipc"]}
+webrender_api = {git = "https://github.com/servo/webrender"}
 
 [build-dependencies]
 toml = "0.4.5"

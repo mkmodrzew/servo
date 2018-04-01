@@ -28,4 +28,4 @@ servo_config = {path = "../config"}
 servo_url = {path = "../url"}
 url = "1.2"
 uuid = {version = "0.6", features = ["v4", "serde"]}
-webrender_api = {git = "https://github.com/servo/webrender", features = ["ipc"]}
+webrender_api = {git = "https://github.com/servo/webrender"}
